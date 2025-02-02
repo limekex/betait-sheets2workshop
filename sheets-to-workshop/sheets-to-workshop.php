@@ -25,7 +25,7 @@ function sheets2workshop_settings_init() {
 
     add_settings_section(
         'sheets2workshop_section',
-        __('Innstillinger', 'min-enkle-plugin'),
+        __('Innstillinger', 'sheets-2-workshop'),
         null,
         'min-enkle-plugin'
     );
